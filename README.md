@@ -12,3 +12,4 @@ Here are some of my creations:
 # Art
 ## [Among us character](https://www.desmos.com/calculator/uipmtj3mwt)
 - This is a painting of a crewmate character from video game "Among us".
+![Screenshot](/Screenshots/Amogus.png)
