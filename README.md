@@ -4,7 +4,7 @@ Desmos is a powerful graphing calculator. However it can also be used as paintin
 Here are some of my creations:
 
 # Games
-## [Ping Pong](https://www.desmos.com/calculator/hzvsxob3nw)
+## [Ping Pong](https://www.desmos.com/calculator/pgcq0gilep)
 - This is a single player "Ping Pong" version.
 - There are 3 different difficulties ranging from easy to hard.
 
