@@ -7,7 +7,7 @@ Here are some of my creations:
 ## [Ping Pong](https://www.desmos.com/calculator/pgcq0gilep)
 - This is a single player "Ping Pong" version.
 - There are 3 different difficulties ranging from easy to hard.
-- ![Screenshot](/Screenshots/Ping Pong.png)
+- ![Screenshot]("/Screenshots/Ping Pong.png")
 
 # Art
 ## [Among us character](https://www.desmos.com/calculator/uipmtj3mwt)
