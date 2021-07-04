@@ -9,5 +9,5 @@ Here are some of my creations:
 - There are 3 different difficulties ranging from easy to hard.
 
 # Art
-## [Among us character](https://www.desmos.com/calculator/hau5i88cwl)
+## [Among us character](https://www.desmos.com/calculator/uipmtj3mwt)
 - This is a painting of a crewmate character from video game "Among us".
