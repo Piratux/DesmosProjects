@@ -16,5 +16,5 @@ Here are some of my creations:
 
 # Utility
 ## [Segment intersection detection](https://www.desmos.com/calculator/evacgxtqcs)
-- Segment intersection detection implementation from [here](https://www.geeksforgeeks.org/orientation-3-ordered-points/).<br />
+- Segment intersection detection implementation using [this page](https://www.geeksforgeeks.org/orientation-3-ordered-points/) as a reference.<br />
 ![Screenshot](/Screenshots/SegmentIntersection.png)
