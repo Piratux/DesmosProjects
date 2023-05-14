@@ -13,3 +13,8 @@ Here are some of my creations:
 ## [Among us character](https://www.desmos.com/calculator/uipmtj3mwt)
 - This is a painting of a crewmate character from video game "Among us".<br />
 ![Screenshot](/Screenshots/Amogus.png)
+
+# Utility
+## [Segment intersection detection](https://www.desmos.com/calculator/evacgxtqcs)
+- Segment intersection detection implementation from [here](https://www.geeksforgeeks.org/orientation-3-ordered-points/).<br />
+![Screenshot](/Screenshots/SegmentIntersection.png)
