@@ -6,10 +6,10 @@ Here are some of my creations:
 # Games
 ## [Ping Pong](https://www.desmos.com/calculator/pgcq0gilep)
 - This is a single player "Ping Pong" version.
-- There are 3 different difficulties ranging from easy to hard.
+- There are 3 different difficulties ranging from easy to hard.<br />
 ![Screenshot](/Screenshots/PingPong.png)
 
 # Art
 ## [Among us character](https://www.desmos.com/calculator/uipmtj3mwt)
-- This is a painting of a crewmate character from video game "Among us".
+- This is a painting of a crewmate character from video game "Among us".<br />
 ![Screenshot](/Screenshots/Amogus.png)
